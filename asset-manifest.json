@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboWebsite/static/css/main.b4afac05.css",
+    "main.js": "/roboWebsite/static/js/main.4f7b4784.js",
+    "static/js/787.ab6aad9d.chunk.js": "/roboWebsite/static/js/787.ab6aad9d.chunk.js",
+    "static/media/Hasibuan free.woff": "/roboWebsite/static/media/Hasibuan free.8c8da23d970153a4f2f2.woff",
+    "index.html": "/roboWebsite/index.html",
+    "main.b4afac05.css.map": "/roboWebsite/static/css/main.b4afac05.css.map",
+    "main.4f7b4784.js.map": "/roboWebsite/static/js/main.4f7b4784.js.map",
+    "787.ab6aad9d.chunk.js.map": "/roboWebsite/static/js/787.ab6aad9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4afac05.css",
+    "static/js/main.4f7b4784.js"
+  ]
+}
